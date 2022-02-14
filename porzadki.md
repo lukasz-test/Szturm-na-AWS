@@ -20,7 +20,7 @@ Mac: ?
 3. Dodaj do niego potrzebne linki: github swój, ZPXD, może gmail.
 4. Jak pojawi się coś ważnego co do zajęć, wrzuć tutaj.
 
-#### PORZĄDEK U SIEBIE: foler xD na kompie
+#### PORZĄDEK U SIEBIE: folder xD na kompie
 1. Katalog xD tworzymy kto nie zrobił. Na wierzchu gdzieś.  I wrzuć tam klucze do serwera jak masz jakieś (AWS ma, Home miał hasło tylko. Co do przenoszenia kluczy to chyba, że masz je już w .ssh, to ogarniasz i pozdrowienia. Ale reszta instrukcji będzie jednak zakładała, że narazie masz te klucze w folderze xD. Może w przyszłości zamienimy to na odrazu .ssh :) ale narazie xD.
 2. Wejdź do folderu xD
 3. Powershell/terminal:
