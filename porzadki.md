@@ -1,12 +1,10 @@
 
 
 #### PORZĄDEK U SIEBIE
-
-6. pwd
-```
-pwd
-```
-Powinieneś być w folderze xD. Chodźmy dalej.
+- Miej u siebie na kompie katalog xD na rzeczy z zajęć
+- Miej w przeglądarce zakładkę xD na rzeczy z zajęć 
+- Umiej szybko uruchamiać powershell u siebie na kompie (otwierasz folder i wpisujesz powershell w pasku adresu foldee)
+- Jak masz dłużej problem, to pisz, pytaj
 
 ### Porządek na serwie:
 
